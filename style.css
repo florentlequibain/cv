@@ -1,0 +1,78 @@
+ul
+{
+  list-style-type: none;
+}
+
+
+h1
+{
+  margin: auto;;
+  color: white;
+}
+
+header
+{
+  text-align: center;
+  width: 100%;
+  height:310px;
+  padding: 10px;
+  background-color: rgba(0, 58, 95, 1);
+}
+
+
+.imagefloat
+{
+  float:left;
+}
+
+
+nav
+{
+  margin: 10px 5px;
+  float: left;
+  width: 20%;
+  height:500px;
+  background-color: rgba(30, 156, 170, 0.7);
+}
+
+section
+{
+  margin: 10px 5px;
+  float: left;
+  width: 70%;
+  height:570px;
+  background-color: rgba(191, 200, 240, 1);
+}
+
+article
+{
+  margin: 10px;
+  padding: 5px;
+  height: 150px;
+  background-color: white;
+}
+
+h4
+{
+  text-align: center;
+}
+
+nav ul
+{
+  text-align: left;
+}
+
+nav p
+{
+  text-align: left;
+}
+
+h3
+{
+  text-align: center;
+}
+
+header p
+{
+  
+}
